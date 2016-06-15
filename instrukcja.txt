@@ -1,0 +1,2 @@
+Jest to sklep ze s³odyczami. W lewej czêsci znajduj¹ siê dostepne produkty, wprawej natomiast s¹ rzeczy które zamówiliœmy. Mo¿na podliczyc ich cenê oraz kupiæ. Je¿eli kupimy jakiœ produkt znika on ze sklepu.
+Dodatkowo w razie proplemów mo¿na wys³aæ maila do sklepu.
